@@ -9,7 +9,7 @@ on:
       VENDOR_URL:
         description: "底包下载地址"
         required: true
-        default: 'https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.24.6.11.DEV/miui_HOUJI_OS1.0.24.6.11.DEV_94a061461a_14.0.zip'
+        default: 'https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.24.6.17.DEV/miui_HOUJI_OS1.0.24.6.17.DEV_ba5d14f90b_14.0.zip'
 
 jobs:
   build:
