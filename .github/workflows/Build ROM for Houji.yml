@@ -9,7 +9,7 @@ on:
       VENDOR_URL:
         description: "底包下载地址"
         required: true
-        default: 'https://ultimateota.d.miui.com/OS1.0.24.6.22.DEV/miui_HOUJI_OS1.0.24.6.22.DEV_0919c2f6bf_14.0.zip?t=1719229202&s=8ce92b8c73328e7afba16fdba4944ab690b_14.0.zip'
+        default: 'https://ultimateota.d.miui.com/OS1.0.24.6.22.DEV/miui_HOUJI_OS1.0.24.6.22.DEV_0919c2f6bf_14.0.zip?t=1719229202&s=8ce92b8c73328e7afba16fdba4944ab6'
 
 jobs:
   build:
